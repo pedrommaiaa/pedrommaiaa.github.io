@@ -1,4 +1,4 @@
-# Writing My Own Programming Language, Part 1
+# Motivation 
 
 
 The idea of making my own programming language might seems absurd 
