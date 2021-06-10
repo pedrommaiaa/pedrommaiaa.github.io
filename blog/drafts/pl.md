@@ -47,7 +47,9 @@ has a table of precedence values associated with each token.
 
 ### The Back End
 
-
+The back end is where the [code generation][6] happens, here we converts the code
+in our AST into x86\_64 assembly code. Our back end also handels the allocation
+of registers and contains a table of string with the actual register names.  
 
 
 
